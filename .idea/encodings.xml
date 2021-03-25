@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/behavioral-adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-bridge/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-prototype/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creationalpattern-abstractfactory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creationalpattern-builder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creationalpattern-factorymethod/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creationalpattern-simplefactory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creationalpattern-singleton/src/main/java" charset="UTF-8" />
+  </component>
+</project>

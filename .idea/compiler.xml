@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="creational-sinple-pattern" />
+        <module name="behavioral-bridge" />
+        <module name="creationalpattern-factorymethod" />
+        <module name="creationalpattern-singleton" />
+        <module name="creationalpattern-abstractfactory" />
+        <module name="creational-prototype" />
+        <module name="behavioral-proxy" />
+        <module name="creationalpattern-builder" />
+        <module name="behavioral-adapter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>

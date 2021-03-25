@@ -1,0 +1,9 @@
+# Project exclude paths
+/behavioral-adapter/target/
+/behavioral-bridge/target/
+/behavioral-proxy/target/
+/creational-prototype/target/
+/creationalpattern-abstractfactory/target/
+/creationalpattern-builder/target/
+/creationalpattern-simplefactory/target/
+/creationalpattern-singleton/target/
