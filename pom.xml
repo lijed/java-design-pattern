@@ -15,9 +15,24 @@
         <module>creationalpattern-singleton</module>
         <module>creational-prototype</module>
         <module>creationalpattern-builder</module>
-        <module>behavioral-proxy</module>
-        <module>behavioral-adapter</module>
-        <module>behavioral-bridge</module>
+        <module>behavioral-adapter-pattern</module>
+        <module>behavioral-template-pattern</module>
+        <module>structural-delegate-pattern</module>
+        <module>behavioral-strategy-pattern</module>
+        <module>behavioral-response-chain-pattern</module>
+        <module>structural-bridge-pattern</module>
+        <module>structural-flyweight-pattern</module>
+        <module>structural-composite-pattern</module>
+        <module>structural-facade-pattern</module>
+        <module>structural-decorator-pattern</module>
+        <module>behavioral-state-pattern</module>
+        <module>behavioral-memento-pattern</module>
+        <module>behavioral-visitor-pattern</module>
+        <module>behavioral-command-pattern</module>
+        <module>behavioral-observer-pattern</module>
+        <module>behavioral-interpreter-pattern</module>
+        <module>behavioral-iterator-pattern</module>
+        <module>behavioral-mediator-pattern</module>
     </modules>
 
     <dependencies>

@@ -7,17 +7,36 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="creational-sinple-pattern" />
-        <module name="behavioral-bridge" />
-        <module name="creationalpattern-factorymethod" />
         <module name="creationalpattern-singleton" />
-        <module name="creationalpattern-abstractfactory" />
-        <module name="creational-prototype" />
-        <module name="behavioral-proxy" />
+        <module name="structural-decorator-pattern" />
+        <module name="behavioral-template-pattern" />
+        <module name="creational-sinple-pattern" />
         <module name="creationalpattern-builder" />
-        <module name="behavioral-adapter" />
+        <module name="behavioral-iterator-pattern" />
+        <module name="behavioral-observer-pattern" />
+        <module name="creational-prototype" />
+        <module name="behavioral-adapter-pattern" />
+        <module name="behavioral-command-pattern" />
+        <module name="creationalpattern-factorymethod" />
+        <module name="structural-bridge-pattern" />
+        <module name="structural-delegate-pattern" />
+        <module name="structural-flyweight-pattern" />
+        <module name="behavioral-state-pattern" />
+        <module name="behavioral-memento-pattern" />
+        <module name="structural-composite-pattern" />
+        <module name="creationalpattern-abstractfactory" />
+        <module name="behavioral-response-chain-pattern" />
+        <module name="structural-proxy-pattern" />
+        <module name="behavioral-interpreter-pattern" />
+        <module name="behavioral-visitor-pattern" />
+        <module name="structural-facade-pattern" />
+        <module name="behavioral-mediator-pattern" />
+        <module name="behavioral-strategy-pattern" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8" />
+    <bytecodeTargetLevel target="8">
+      <module name="behavioral-bridge" target="1.7" />
+      <module name="structural-proxy-pattern" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
