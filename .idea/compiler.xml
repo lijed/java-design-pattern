@@ -15,28 +15,27 @@
         <module name="behavioral-iterator-pattern" />
         <module name="behavioral-observer-pattern" />
         <module name="creational-prototype" />
-        <module name="behavioral-adapter-pattern" />
-        <module name="behavioral-command-pattern" />
+        <module name="behavioral-state-pattern" />
+        <module name="behavioral-visitor-pattern" />
         <module name="creationalpattern-factorymethod" />
         <module name="structural-bridge-pattern" />
         <module name="structural-delegate-pattern" />
         <module name="structural-flyweight-pattern" />
-        <module name="behavioral-state-pattern" />
+        <module name="behavioral-mediator-pattern" />
         <module name="behavioral-memento-pattern" />
         <module name="structural-composite-pattern" />
         <module name="creationalpattern-abstractfactory" />
         <module name="behavioral-response-chain-pattern" />
-        <module name="structural-proxy-pattern" />
+        <module name="behavioral-command-pattern" />
         <module name="behavioral-interpreter-pattern" />
-        <module name="behavioral-visitor-pattern" />
+        <module name="structural-proxy-pattern" />
         <module name="structural-facade-pattern" />
-        <module name="behavioral-mediator-pattern" />
+        <module name="structural-adapter-pattern" />
         <module name="behavioral-strategy-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="behavioral-bridge" target="1.7" />
-      <module name="structural-proxy-pattern" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

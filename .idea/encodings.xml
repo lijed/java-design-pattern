@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/behavioral-adapter-pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral-command-pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral-interpreter-pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral-iterator-pattern/src/main/java" charset="UTF-8" />
@@ -18,6 +17,7 @@
     <file url="file://$PROJECT_DIR$/creationalpattern-factorymethod/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/creationalpattern-simplefactory/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/creationalpattern-singleton/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-adapter-pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural-bridge-pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural-composite-pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural-decorator-pattern/src/main/java" charset="UTF-8" />

@@ -15,7 +15,7 @@
         <module>creationalpattern-singleton</module>
         <module>creational-prototype</module>
         <module>creationalpattern-builder</module>
-        <module>behavioral-adapter-pattern</module>
+        <module>structural-adapter-pattern</module>
         <module>behavioral-template-pattern</module>
         <module>structural-delegate-pattern</module>
         <module>behavioral-strategy-pattern</module>
